@@ -1,17 +1,15 @@
-# Rules of the 100 Days Of Code Challenge
+# Правила челленджа 100ДнейКода
+### *Я буду писать код минимум 1 час в день на протяжении следующих 100 дней.*
 
-## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+#### Дата начала
+Апрель 26е, 2021
 
-#### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
-
-## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+## Дополнительные правила
+1. Я буду твитить о своем прогрессе с помощью хэштега #100DaysOfCode
+2. Если я программирую на работе - это время не идет в зачет.
+3. Я буду отправлять свой код на github так что бы каждый мог видеть мой прогремм
+4. Я буду обновлять логфайл )[log.md] прогрессом за день, и добавлять туда ссылку на него, что бы каждый мог видеть мой прогресс
+5. Я буду работать над реальным проектом и решать реальные задачи.Время потраченное на чтение туториалов и руководств не идет в зачет. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 
 ## Ideas to make this challenge more effective
