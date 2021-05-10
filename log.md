@@ -6,3 +6,7 @@ but im setuo my enviroment, python, anaconda3 and some ML and DS stuff. But i, s
 
 # Day 2
 Working with try..exception conception. Continiue learning Python. Wrote some ideas about project. It was realy hard. 
+
+# Day 1
+F*ckdup all this sh**t. So start it again.
+Day 1 of 100 start here 10-05-2021
